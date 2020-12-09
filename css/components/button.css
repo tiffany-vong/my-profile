@@ -1,0 +1,17 @@
+.btn-orange {
+	padding: 10px;
+	background-color:#EB5E55;
+	border-radius: 3px;	
+	color:white;
+	font-size: 15px;
+	font-family: 'Raleway', sans-serif;	
+}
+
+.btn-orange:hover {
+	padding: 10px;
+	background-color:#4D5061;
+	border-radius: 3px;
+	color:white;
+	font-size: 15px;
+	font-family: 'Raleway', sans-serif;
+}
